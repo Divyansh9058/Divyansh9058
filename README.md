@@ -17,7 +17,7 @@
 
 - 📄 Know more about me [Resume](https://drive.google.com/drive/folders/1PsNNGJZwSZCS8evbsrCq8TXIrpAa-5_v)
 
-- ⚡ Fun fact - I love Coding 🖊️
+- ⚡ Fun fact - I love Writing 🖊️
 
 -  🌎 Let's Create something the World needs 🌎
 
