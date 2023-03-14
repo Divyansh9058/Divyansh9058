@@ -11,7 +11,7 @@
 
 
 
-👨‍💻 See my Portfolio here [Portfolio](https://Divyansh9058.github.io/)
+👨‍💻 See my Portfolio here <a href="https://Divyansh9058.github.io/">Portfolio</a>
 
 - 📫 Reach me at *divyanshgoel777@gmail.com*
 
